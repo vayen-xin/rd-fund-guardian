@@ -2,3 +2,6 @@
     path = rd-fund-guardian-vue
     url = https://github.com/vayen-xin/rd-fund-guardian-vue.git
     branch = master
+[submodule "rd-fund-guardian-springboot"]
+    path = rd-fund-guardian-springboot
+    url = https://github.com/vayen-xin/rd-fund-guardian-springboot.git
