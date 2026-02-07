@@ -1,0 +1,4 @@
+[submodule "rd-fund-guardian-vue"]
+    path = rd-fund-guardian-vue
+    url = https://github.com/vayen-xin/rd-fund-guardian-vue.git
+    branch = master
